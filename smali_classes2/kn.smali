@@ -1,0 +1,288 @@
+.class public final Lkn;
+.super Ljava/lang/Object;
+.source "PG"
+
+
+# instance fields
+.field final synthetic a:I
+
+.field final synthetic b:I
+
+.field final synthetic c:Ljava/lang/ref/WeakReference;
+
+.field final synthetic d:Ler;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .line 13
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+.method public constructor <init>(Ler;IILjava/lang/ref/WeakReference;)V
+    .locals 0
+
+    .line 1
+    iput-object p1, p0, Lkn;->d:Ler;
+
+    .line 2
+    .line 3
+    iput p2, p0, Lkn;->a:I
+
+    .line 4
+    .line 5
+    iput p3, p0, Lkn;->b:I
+
+    .line 6
+    .line 7
+    iput-object p4, p0, Lkn;->c:Ljava/lang/ref/WeakReference;
+
+    .line 8
+    .line 9
+    invoke-direct {p0}, Lkn;-><init>()V
+
+    .line 10
+    .line 11
+    .line 12
+    return-void
+.end method
+
+.method public static d()Landroid/os/Handler;
+    .locals 2
+
+    .line 1
+    new-instance v0, Landroid/os/Handler;
+
+    .line 2
+    .line 3
+    invoke-static {}, Landroid/os/Looper;->getMainLooper()Landroid/os/Looper;
+
+    .line 4
+    .line 5
+    .line 6
+    move-result-object v1
+
+    .line 7
+    invoke-direct {v0, v1}, Landroid/os/Handler;-><init>(Landroid/os/Looper;)V
+
+    .line 8
+    .line 9
+    .line 10
+    return-object v0
+.end method
+
+
+# virtual methods
+.method public final a(Landroid/graphics/Typeface;)V
+    .locals 3
+
+    .line 1
+    sget v0, Landroid/os/Build$VERSION;->SDK_INT:I
+
+    .line 2
+    .line 3
+    const/16 v1, 0x1c
+
+    .line 4
+    .line 5
+    const/4 v2, 0x1
+
+    .line 6
+    if-lt v0, v1, :cond_1
+
+    .line 7
+    .line 8
+    iget v0, p0, Lkn;->a:I
+
+    .line 9
+    .line 10
+    const/4 v1, -0x1
+
+    .line 11
+    if-eq v0, v1, :cond_1
+
+    .line 12
+    .line 13
+    iget v1, p0, Lkn;->b:I
+
+    .line 14
+    .line 15
+    and-int/lit8 v1, v1, 0x2
+
+    .line 16
+    .line 17
+    if-eqz v1, :cond_0
+
+    .line 18
+    .line 19
+    move v1, v2
+
+    .line 20
+    goto :goto_0
+
+    .line 21
+    :cond_0
+    const/4 v1, 0x0
+
+    .line 22
+    :goto_0
+    invoke-static {p1, v0, v1}, Ldd$$ExternalSyntheticApiModelOutline0;->m(Landroid/graphics/Typeface;IZ)Landroid/graphics/Typeface;
+
+    .line 23
+    .line 24
+    .line 25
+    move-result-object p1
+
+    .line 26
+    :cond_1
+    iget-object v0, p0, Lkn;->d:Ler;
+
+    .line 27
+    .line 28
+    iget-object p0, p0, Lkn;->c:Ljava/lang/ref/WeakReference;
+
+    .line 29
+    .line 30
+    iget-boolean v1, v0, Ler;->d:Z
+
+    .line 31
+    .line 32
+    if-eqz v1, :cond_3
+
+    .line 33
+    .line 34
+    iput-object p1, v0, Ler;->c:Landroid/graphics/Typeface;
+
+    .line 35
+    .line 36
+    invoke-virtual {p0}, Ljava/lang/ref/WeakReference;->get()Ljava/lang/Object;
+
+    .line 37
+    .line 38
+    .line 39
+    move-result-object p0
+
+    .line 40
+    check-cast p0, Landroid/widget/TextView;
+
+    .line 41
+    .line 42
+    if-eqz p0, :cond_3
+
+    .line 43
+    .line 44
+    invoke-virtual {p0}, Landroid/widget/TextView;->isAttachedToWindow()Z
+
+    .line 45
+    .line 46
+    .line 47
+    move-result v1
+
+    .line 48
+    if-eqz v1, :cond_2
+
+    .line 49
+    .line 50
+    iget v0, v0, Ler;->b:I
+
+    .line 51
+    .line 52
+    new-instance v1, Lgq;
+
+    .line 53
+    .line 54
+    invoke-direct {v1, p0, p1, v0, v2}, Lgq;-><init>(Landroid/widget/TextView;Landroid/graphics/Typeface;II)V
+
+    .line 55
+    .line 56
+    .line 57
+    invoke-virtual {p0, v1}, Landroid/widget/TextView;->post(Ljava/lang/Runnable;)Z
+
+    .line 58
+    .line 59
+    .line 60
+    return-void
+
+    .line 61
+    :cond_2
+    iget v0, v0, Ler;->b:I
+
+    .line 62
+    .line 63
+    invoke-static {p0, p1, v0}, Ler;->b(Landroid/widget/TextView;Landroid/graphics/Typeface;I)V
+
+    .line 64
+    .line 65
+    .line 66
+    :cond_3
+    return-void
+.end method
+
+.method public final b()V
+    .locals 3
+
+    .line 1
+    invoke-static {}, Lkn;->d()Landroid/os/Handler;
+
+    .line 2
+    .line 3
+    .line 4
+    move-result-object v0
+
+    .line 5
+    new-instance v1, Llq;
+
+    .line 6
+    .line 7
+    const/4 v2, 0x1
+
+    .line 8
+    invoke-direct {v1, p0, v2}, Llq;-><init>(Lkn;I)V
+
+    .line 9
+    .line 10
+    .line 11
+    invoke-virtual {v0, v1}, Landroid/os/Handler;->post(Ljava/lang/Runnable;)Z
+
+    .line 12
+    .line 13
+    .line 14
+    return-void
+.end method
+
+.method public final c(Landroid/graphics/Typeface;)V
+    .locals 3
+
+    .line 1
+    invoke-static {}, Lkn;->d()Landroid/os/Handler;
+
+    .line 2
+    .line 3
+    .line 4
+    move-result-object v0
+
+    .line 5
+    new-instance v1, Lu;
+
+    .line 6
+    .line 7
+    const/16 v2, 0x9
+
+    .line 8
+    .line 9
+    invoke-direct {v1, p0, p1, v2}, Lu;-><init>(Ljava/lang/Object;Ljava/lang/Object;I)V
+
+    .line 10
+    .line 11
+    .line 12
+    invoke-virtual {v0, v1}, Landroid/os/Handler;->post(Ljava/lang/Runnable;)Z
+
+    .line 13
+    .line 14
+    .line 15
+    return-void
+.end method

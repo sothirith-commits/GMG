@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">ເລື່ອນຂຶ້ນເທິງ</string>
+    <string name="abc_action_mode_done">ແລ້ວໆ</string>
+    <string name="abc_capital_off">ປິດ</string>
+    <string name="abc_capital_on">ເປີດ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">ລຶບ</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">ຍະຫວ່າງ</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">ຊອກຫາ…</string>
+    <string name="abc_searchview_description_clear">ລຶບຂໍ້ຄວາມຊອກຫາ</string>
+    <string name="abc_searchview_description_search">ຊອກຫາ</string>
+    <string name="abc_searchview_description_submit">ສົ່ງຂໍ້ມູນ</string>
+    <string name="abc_searchview_description_voice">ຊອກຫາດ້ວຍສຽງ</string>
+    <string name="abc_toolbar_collapse_description">ຫຍໍ້ລົງ</string>
+    <string name="common_google_play_services_enable_button">ເປີດນຳໃຊ້</string>
+    <string name="common_google_play_services_enable_text">ຕ້ອງເປີດການນຳໃຊ້ບໍລິການ Google Play ສຳລັບ %1$s.</string>
+    <string name="common_google_play_services_enable_title">ເປີດໃຊ້ການ​ບໍ​ລິ​ການ Google Play</string>
+    <string name="common_google_play_services_install_button">ຕິດຕັ້ງ</string>
+    <string name="common_google_play_services_install_text">ຕິດຕັ້ງບໍລິການ Google Play ເພື່ອສືບຕໍ່ໃຊ້ %1$s.</string>
+    <string name="common_google_play_services_install_title">ຕິດຕັ້ງບໍລິການ Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">ສະຖານະບໍລິການ Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Services ​ເກີດ​ຄວາມ​ຜິດ​ພາດ</string>
+    <string name="common_google_play_services_signin_required_text">%1$s ບໍ່ສາມາດເຊື່ອມຕໍ່ກັບບໍລິການ Google Play ໄດ້. ກະລຸນາເຂົ້າສູ່ລະບົບບັນຊີ Google ຂອງທ່ານ.</string>
+    <string name="common_google_play_services_signin_required_title">ຕ້ອງເຂົ້າສູ່ລະບົບ</string>
+    <string name="common_google_play_services_try_again_text">%1$s ບໍ່ສາມາດເຊື່ອມຕໍ່ກັບບໍລິການ Google Play ໄດ້. ກະລຸນາລອງໃໝ່.</string>
+    <string name="common_google_play_services_try_again_title">ກະລຸນາລອງໃໝ່</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ກຳລັງມີບັນຫາກັບບໍລິການ Google Play. ກະລຸນາລອງໃໝ່ອີກຄັ້ງ.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ບໍ່ສາມາດເຮັດວຽກໄດ້ເນື່ອງຈາກອຸປະກອນຂອງທ່ານບໍ່ຮອງຮັບບໍລິການ Google Play. ກະລຸນາໃຊ້ອຸປະກອນທີ່ຮອງຮັບ.</string>
+    <string name="common_google_play_services_unsupported_title">ອຸປະກອນບໍ່ຮອງຮັບການນຳໃຊ້</string>
+    <string name="common_google_play_services_update_button">ອັບເດດ</string>
+    <string name="common_google_play_services_update_text">ອັບເດດບໍລິການ Google Play ເພື່ອໃຊ້ %1$s.</string>
+    <string name="common_google_play_services_update_title">ອັບເດດການ​ບໍ​ລິ​ການ Google Play</string>
+    <string name="common_google_play_services_updating_client_title">ກຳລັງອັບເດດບໍລິການ Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s ຈະພ້ອມນຳໃຊ້ເມື່ອອັບເດດບໍລິການ Google Play ສຳເລັດ.</string>
+    <string name="common_google_play_services_wear_update_text">ອັບເດດບໍລິການ Google Play ເພື່ອໃຊ້ %1$s.</string>
+    <string name="common_open_on_phone">​ເປີດ​ໃນ​ໂທ​ລະ​ສັບ</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">माथि नेभिगेट गर्नुहोस्</string>
+    <string name="abc_action_mode_done">सम्पन्न भयो</string>
+    <string name="abc_capital_off">अफ</string>
+    <string name="abc_capital_on">अन गर्नुहोस्</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">खोज्नुहोस्…</string>
+    <string name="abc_searchview_description_clear">क्वेरी खाली गर्नुहोस्</string>
+    <string name="abc_searchview_description_search">खोज्नुहोस्</string>
+    <string name="abc_searchview_description_submit">क्वेरी पेस गर्नुहोस्</string>
+    <string name="abc_searchview_description_voice">आवाजमा आधारित खोजी</string>
+    <string name="abc_toolbar_collapse_description">संक्षिप्त गर्नुहोस्</string>
+    <string name="common_google_play_services_enable_button">अन गर्नुहोस्</string>
+    <string name="common_google_play_services_enable_text">%1$s प्रयोग गर्न Google Play services अन गर्नु पर्ने हुन्छ।</string>
+    <string name="common_google_play_services_enable_title">Google Play सेवाहरू सक्षम पार्नुहोस्</string>
+    <string name="common_google_play_services_install_button">इन्स्टल गर्नुहोस्</string>
+    <string name="common_google_play_services_install_text">%1$s प्रयोग गरिराख्न Google Play services इन्स्टल गर्नुहोस्।</string>
+    <string name="common_google_play_services_install_title">Google Play services इन्स्टल गर्नुहोस्</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play सेवाको उपलब्धता</string>
+    <string name="common_google_play_services_notification_ticker">Google Play सेवाहरूका त्रुटि</string>
+    <string name="common_google_play_services_signin_required_text">%1$s Google Play services मा कनेक्ट हुन सकेन। आफ्नो Google खातामा साइन इन गर्नुहोस्।</string>
+    <string name="common_google_play_services_signin_required_title">साइन इन गर्नु पर्ने हुन्छ</string>
+    <string name="common_google_play_services_try_again_text">%1$s Google Play services मा कनेक्ट हुन सकेन। कृपया फेरि प्रयास गर्नुहोस्।</string>
+    <string name="common_google_play_services_try_again_title">कृपया फेरि प्रयास गर्नुहोस्</string>
+    <string name="common_google_play_services_unknown_issue">%1$s लाई Google Play services सँग सहकार्य गर्न समस्या भइरहेको छ। कृपया फेरि प्रयास गर्नुहोस्।</string>
+    <string name="common_google_play_services_unsupported_text">तपाईंको डिभाइसमा Google Play services प्रयोग गर्न नमिल्ने भएकाले %1$s चल्न सक्दैन। कृपया Google Play services प्रयोग गर्न मिल्ने डिभाइस प्रयोग गर्नुहोस्।</string>
+    <string name="common_google_play_services_unsupported_title">यो डिभाइस कम्प्याटिबल छैन</string>
+    <string name="common_google_play_services_update_button">अपडेट गर्नुहोस्</string>
+    <string name="common_google_play_services_update_text">%1$s प्रयोग गर्न Google Play services अपडेट गर्नुहोस्।</string>
+    <string name="common_google_play_services_update_title">Google Play सेवाहरू अपडेट गर्नुहोस्</string>
+    <string name="common_google_play_services_updating_client_title">Google Play services अपडेट गरिँदै छ</string>
+    <string name="common_google_play_services_updating_text">Google Play services अपडेट गर्ने प्रक्रिया पूरा भएपछि %1$s उपलब्ध हुने छ।</string>
+    <string name="common_google_play_services_wear_update_text">%1$s प्रयोग गर्न Google Play services अपडेट गर्नुहोस्।</string>
+    <string name="common_open_on_phone">फोनमा खोल्नुहोस्</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Gå opp</string>
+    <string name="abc_action_mode_done">Ferdig</string>
+    <string name="abc_capital_off">AV</string>
+    <string name="abc_capital_on">PÅ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">slett</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Funksjon+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">mellomrom</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meny+</string>
+    <string name="abc_search_hint">Søk</string>
+    <string name="abc_searchview_description_clear">Slett søket</string>
+    <string name="abc_searchview_description_search">Søk</string>
+    <string name="abc_searchview_description_submit">Utfør søket</string>
+    <string name="abc_searchview_description_voice">Talesøk</string>
+    <string name="abc_toolbar_collapse_description">Skjul</string>
+    <string name="common_google_play_services_enable_button">Aktivér</string>
+    <string name="common_google_play_services_enable_text">Google Play-tjenester må være slått på for %1$s.</string>
+    <string name="common_google_play_services_enable_title">Slå på Google Play-tjenester</string>
+    <string name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">Du må installere Google Play-tjenester for å fortsette å bruke %1$s.</string>
+    <string name="common_google_play_services_install_title">Installer Google Play-tjenester</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play Tjenester-tilgjengelighet</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Tjenester-feil</string>
+    <string name="common_google_play_services_signin_required_text">%1$s kunne ikke koble seg til Google Play-tjenester. Logg på Google-kontoen din.</string>
+    <string name="common_google_play_services_signin_required_title">Krever pålogging</string>
+    <string name="common_google_play_services_try_again_text">%1$s kunne ikke koble seg til Google Play-tjenester. Prøv på nytt.</string>
+    <string name="common_google_play_services_try_again_title">Prøv på nytt</string>
+    <string name="common_google_play_services_unknown_issue">%1$s har problemer med Google Play-tjenester. Prøv på nytt.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s kan ikke kjøre fordi enheten din ikke støtter Google Play-tjenester. Bruk en enhet som støtter Google Play-tjenester.</string>
+    <string name="common_google_play_services_unsupported_title">Enheten er ikke kompatibel</string>
+    <string name="common_google_play_services_update_button">Oppdater</string>
+    <string name="common_google_play_services_update_text">Du må oppdatere Google Play-tjenester for å bruke %1$s.</string>
+    <string name="common_google_play_services_update_title">Oppdater Google Play-tjenester</string>
+    <string name="common_google_play_services_updating_client_title">Google Play-tjenester oppdateres</string>
+    <string name="common_google_play_services_updating_text">%1$s blir tilgjengelig når oppdateringen av Google Play-tjenester er ferdig.</string>
+    <string name="common_google_play_services_wear_update_text">Du må oppdatere Google Play-tjenester for å bruke %1$s.</string>
+    <string name="common_open_on_phone">Åpne på telefonen</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Navigasi ke atas</string>
+    <string name="abc_action_mode_done">Selesai</string>
+    <string name="abc_capital_off">MATI</string>
+    <string name="abc_capital_on">HIDUP</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fungsi+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">ruang</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Cari…</string>
+    <string name="abc_searchview_description_clear">Kosongkan pertanyaan</string>
+    <string name="abc_searchview_description_search">Cari</string>
+    <string name="abc_searchview_description_submit">Serah pertanyaan</string>
+    <string name="abc_searchview_description_voice">Carian suara</string>
+    <string name="abc_toolbar_collapse_description">Runtuhkan</string>
+    <string name="common_google_play_services_enable_button">Dayakan</string>
+    <string name="common_google_play_services_enable_text">Perkhidmatan Google Play mestilah didayakan untuk %1$s.</string>
+    <string name="common_google_play_services_enable_title">Dayakan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_install_button">Pasang</string>
+    <string name="common_google_play_services_install_text">Pasang perkhidmatan Google Play untuk terus menggunakan %1$s.</string>
+    <string name="common_google_play_services_install_title">Pasang perkhidmatan Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Ketersediaan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Ralat perkhidmatan Google Play</string>
+    <string name="common_google_play_services_signin_required_text">%1$s tidak dapat disambungkan kepada perkhidmatan Google Play. Sila log masuk ke Google Account anda.</string>
+    <string name="common_google_play_services_signin_required_title">Log masuk diperlukan</string>
+    <string name="common_google_play_services_try_again_text">%1$s tidak dapat disambungkan kepada perkhidmatan Google Play. Sila cuba lagi.</string>
+    <string name="common_google_play_services_try_again_title">Sila cuba lagi</string>
+    <string name="common_google_play_services_unknown_issue">%1$s menghadapi masalah berhubung perkhidmatan Google Play. Sila cuba lagi.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s tidak dapat dijalankan kerana peranti anda tidak menyokong perkhidmatan Google Play. Sila gunakan peranti yang disokong.</string>
+    <string name="common_google_play_services_unsupported_title">Peranti tidak serasi</string>
+    <string name="common_google_play_services_update_button">Kemas kini</string>
+    <string name="common_google_play_services_update_text">Kemas kinikan perkhidmatan Google Play untuk menggunakan %1$s.</string>
+    <string name="common_google_play_services_update_title">Kemaskinikan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_updating_client_title">Mengemaskinikan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s akan tersedia setelah pengemaskinian perkhidmatan Google Play selesai.</string>
+    <string name="common_google_play_services_wear_update_text">Kemas kinikan perkhidmatan Google Play untuk menggunakan %1$s.</string>
+    <string name="common_open_on_phone">Buka pada telefon</string>
+</resources>

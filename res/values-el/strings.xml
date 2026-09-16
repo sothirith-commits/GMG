@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Πλοήγηση προς τα επάνω</string>
+    <string name="abc_action_mode_done">Τέλος</string>
+    <string name="abc_capital_off">ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">διάστημα</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Αναζήτηση…</string>
+    <string name="abc_searchview_description_clear">Διαγραφή ερωτήματος</string>
+    <string name="abc_searchview_description_search">Αναζήτηση</string>
+    <string name="abc_searchview_description_submit">Υποβολή ερωτήματος</string>
+    <string name="abc_searchview_description_voice">Φωνητική αναζήτηση</string>
+    <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
+    <string name="common_google_play_services_enable_button">Ενεργοποίηση</string>
+    <string name="common_google_play_services_enable_text">Οι υπηρεσίες Google Play πρέπει να είναι ενεργοποιημένες για την εφαρμογή %1$s.</string>
+    <string name="common_google_play_services_enable_title">Ενεργοποίηση υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_install_button">Εγκατάσταση</string>
+    <string name="common_google_play_services_install_text">Εγκαταστήστε τις υπηρεσίες Google Play, για να συνεχίσετε να χρησιμοποιείτε την εφαρμογή %1$s.</string>
+    <string name="common_google_play_services_install_title">Εγκαταστήστε τις υπηρεσίες Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Διαθεσιμότητα υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Σφάλμα Υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_signin_required_text">Η εφαρμογή %1$s δεν μπόρεσε να συνδεθεί με τις υπηρεσίες Google Play. Συνδεθείτε στον Λογαριασμό σας Google.</string>
+    <string name="common_google_play_services_signin_required_title">Απαιτείται σύνδεση</string>
+    <string name="common_google_play_services_try_again_text">Η εφαρμογή %1$s δεν μπόρεσε να συνδεθεί με τις υπηρεσίες Google Play. Δοκιμάστε ξανά.</string>
+    <string name="common_google_play_services_try_again_title">Δοκιμάστε ξανά</string>
+    <string name="common_google_play_services_unknown_issue">Η εφαρμογή %1$s αντιμετωπίζει κάποιο πρόβλημα με τις υπηρεσίες Google Play. Προσπαθήστε ξανά.</string>
+    <string name="common_google_play_services_unsupported_text">Η εφαρμογή %1$s δεν μπορεί να εκτελεστεί, επειδή η συσκευή σας δεν υποστηρίζει τις υπηρεσίες Google Play. Χρησιμοποιήστε μια υποστηριζόμενη συσκευή.</string>
+    <string name="common_google_play_services_unsupported_title">Η συσκευή δεν είναι συμβατή</string>
+    <string name="common_google_play_services_update_button">Ενημέρωση</string>
+    <string name="common_google_play_services_update_text">Ενημερώστε τις υπηρεσίες Google Play, για να χρησιμοποιήσετε την εφαρμογή %1$s.</string>
+    <string name="common_google_play_services_update_title">Ενημέρωση υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_updating_client_title">Ενημέρωση υπηρεσιών Google Play</string>
+    <string name="common_google_play_services_updating_text">Η εφαρμογή %1$s θα είναι διαθέσιμη μόλις ολοκληρωθεί η ενημέρωση των υπηρεσιών Google Play.</string>
+    <string name="common_google_play_services_wear_update_text">Ενημερώστε τις υπηρεσίες Google Play, για να χρησιμοποιήσετε την εφαρμογή %1$s.</string>
+    <string name="common_open_on_phone">Άνοιγμα σε τηλέφωνο</string>
+</resources>

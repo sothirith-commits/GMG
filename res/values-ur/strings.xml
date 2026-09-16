@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">اوپر نیویگیٹ کریں</string>
+    <string name="abc_action_mode_done">ہو گیا</string>
+    <string name="abc_capital_off">آف</string>
+    <string name="abc_capital_on">آن</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+‎</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+‎</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+‎</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+‎</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+‎</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+‎</string>
+    <string name="abc_prepend_shortcut_label">Menu+‎</string>
+    <string name="abc_search_hint">تلاش کریں…</string>
+    <string name="abc_searchview_description_clear">استفسار صاف کریں</string>
+    <string name="abc_searchview_description_search">تلاش کریں</string>
+    <string name="abc_searchview_description_submit">استفسار جمع کرائیں</string>
+    <string name="abc_searchview_description_voice">صوتی تلاش</string>
+    <string name="abc_toolbar_collapse_description">سکیڑیں</string>
+    <string name="common_google_play_services_enable_button">فعال کریں</string>
+    <string name="common_google_play_services_enable_text">‏‫Google Play سروسز کو %1$s کے لیے فعال کرنا ضروری ہے۔</string>
+    <string name="common_google_play_services_enable_title">‏Google Play سروسز فعال کریں</string>
+    <string name="common_google_play_services_install_button">انسٹال کریں</string>
+    <string name="common_google_play_services_install_text">‏‫%1$s کا استعمال جاری رکھنے کے لیے Google Play سروسز انسٹال کریں۔</string>
+    <string name="common_google_play_services_install_title">‏‫Google Play سروسز انسٹال کریں</string>
+    <string name="common_google_play_services_notification_channel_name">‏Google Play سروسز کی دستیابی</string>
+    <string name="common_google_play_services_notification_ticker">‏Google Play سروسز کی خرابی</string>
+    <string name="common_google_play_services_signin_required_text">‏‫%1$s کو Google Play سروسز سے منسلک نہیں کیا جا سکا۔ براہ کرم اپنے Google اکاؤنٹ میں سائن ان کریں۔</string>
+    <string name="common_google_play_services_signin_required_title">سائن ان درکار ہے</string>
+    <string name="common_google_play_services_try_again_text">‏‫%1$s کو Google Play سروسز سے منسلک نہیں کیا جا سکا۔ براہ کرم دوبارہ کوشش کریں۔</string>
+    <string name="common_google_play_services_try_again_title">براہ کرم دوبارہ کوشش کریں</string>
+    <string name="common_google_play_services_unknown_issue">‏%1$s کو Google Play سروسز کے ساتھ مسئلہ پیش آ رہا ہے۔ براہ کرم دوبارہ کوشش کریں۔</string>
+    <string name="common_google_play_services_unsupported_text">‏‫%1$s نہیں چل سکتی کیونکہ آپ کا آلہ Google Play سروسز کو سپورٹ نہیں کرتا ہے۔ براہ کرم تعاون یافتہ آلہ استعمال کریں۔</string>
+    <string name="common_google_play_services_unsupported_title">آلہ موافق نہیں ہے</string>
+    <string name="common_google_play_services_update_button">اپ ڈیٹ کریں</string>
+    <string name="common_google_play_services_update_text">‏‫%1$s استعمال کرنے کے لیے Google Play سروسز کو اپ ڈیٹ کریں۔</string>
+    <string name="common_google_play_services_update_title">‏Google Play سروسز اپ ڈیٹ کریں</string>
+    <string name="common_google_play_services_updating_client_title">‏‫Google Play سروسز اپ ڈیٹ کی جا رہی ہیں</string>
+    <string name="common_google_play_services_updating_text">‏‫Google Play سروسز کی اپ ڈیٹ مکمل ہونے کے بعد %1$s دستیاب ہو جائے گی۔</string>
+    <string name="common_google_play_services_wear_update_text">‏‫%1$s استعمال کرنے کے لیے Google Play سروسز کو اپ ڈیٹ کریں۔</string>
+    <string name="common_open_on_phone">فون پر کھولیں</string>
+</resources>
